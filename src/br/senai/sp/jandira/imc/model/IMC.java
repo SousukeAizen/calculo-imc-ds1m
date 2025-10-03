@@ -1,5 +1,6 @@
 package br.senai.sp.jandira.imc.model;
 
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class IMC {
@@ -102,3 +103,7 @@ public class IMC {
 
 
 
+=======
+public class IMC {
+}
+>>>>>>> 4c61df1ca1d2ca4f733fe9831880d4b8c7c36c4b
